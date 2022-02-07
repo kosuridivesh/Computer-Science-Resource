@@ -3,4 +3,4 @@ Resource-Repo initiative by 'Divesh Kosuri' to put all the resource at one place
 
 An open resource hub for everyone. An initiative to collectively bring all the resources together for ease!
 .
-Every interested human can contribute regardless of their branch. Once enough resource is in, then lets also bring together other branch resource!    
+Every interested human can contribute regardless of their branch. Once enough resource is in, then lets also bring together other branch resource!
