@@ -1,0 +1,13 @@
+create table sample1(
+col1 varchar(50),
+col2 numeric(5,2)
+);
+
+alter table sample1 add ncol varchar(10);
+alter table sample1 drop column ncol;                           // for deleting columns
+alter table sample1 modify ncol1 varchar(5);
+alter table sample1 rename to newtable; 
+
+-> D M L :
+delete from sample where name ='name';      			// for deleting rows
+update sample set country = 'MARS' where name = 'rakesh';	//update-set are hand in hand
